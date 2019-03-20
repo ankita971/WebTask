@@ -1011,8 +1011,10 @@ Featured section style
     font-size:14px;
     font-weight: 500;
 }
-
-
+.business_image img{
+	height:600px;
+	width:600px;
+}
 
 .slid_shap{
     height: 40px;
