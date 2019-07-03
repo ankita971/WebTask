@@ -311,12 +311,12 @@ Section
     max-width: 100%;
     color: #ffffff;
 }
-
+/*
 ul{
     margin:0;
     padding:0;
     list-style:none;
-}
+}*/
 
 /*all overlay*/
 
@@ -977,6 +977,14 @@ Featured section style
     
 }
 .f_item_text p{
+    margin-right: 40px; 
+    margin-left: 40px;
+    text-align: justify;
+    font-size:20px;
+    color:#000000;
+    line-height: 1.2;
+}
+.f_item_text ul{
     margin-right: 40px; 
     margin-left: 40px;
     text-align: justify;
